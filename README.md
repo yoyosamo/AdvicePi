@@ -1,2 +1,2 @@
 # AdvicePi
-A Pi-powered, coin-operated advice machine.
+A [Pi-powered](http://raspberrypi.org/), coin-operated advice machine.
